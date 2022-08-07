@@ -1,0 +1,8 @@
+{
+    "name": "esoft-microservice-transaction",
+    "buildpacks": [
+      {
+        "url": "heroku/java"
+      }
+    ]
+  }
